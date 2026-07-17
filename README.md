@@ -46,5 +46,6 @@ ML_project/
 └── requirements.txt
 
 
+<img width="1873" height="993" alt="Screenshot 2026-07-17 170959" src="https://github.com/user-attachments/assets/7cc272bd-d68e-4a44-97da-737dd4ace242" />
 
 
